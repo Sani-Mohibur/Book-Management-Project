@@ -1,5 +1,7 @@
 # Book Management System
 
+The **Book Management Project** is a web-based application that allows users to manage a collection of books. It provides functionality to add, update, view, and delete book records — making it ideal for libraries, bookstores, or personal book tracking.
+
 ## ✨ Key Features
 
 * **User Authentication:** Secure user registration and login system handled by Spring Security.
